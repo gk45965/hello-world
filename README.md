@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi HUmans !
+
+I like java , data structure , maths and machine learning
